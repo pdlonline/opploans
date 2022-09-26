@@ -1,0 +1,15 @@
+{
+  "name": "opploans-online",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "OppLoans Online Payday Loans Online No Credit Check Instant Approval",
+  "keywords": [
+    "opploans",
+    "opploans.com"
+  ],
+  "repository": "https://github.com/pdlonline/opploans",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
